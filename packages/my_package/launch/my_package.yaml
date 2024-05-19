@@ -1,0 +1,6 @@
+launch:
+
+- node:
+    pkg: "my_package"
+    exec: "my_node"
+    name: "sample"
